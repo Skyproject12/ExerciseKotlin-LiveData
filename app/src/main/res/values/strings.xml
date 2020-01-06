@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LiveData</string>
+    <string name="second"> %d second elapse</string>
+</resources>
